@@ -1,7 +1,8 @@
 ---
 title: "스프링 시작1 - 프로젝트 기본 디렉토리 구조"
 date: 2018-01-11 08:52:28 -0400
-categories: spring
+categories: 
+  - spring
 ---
 
 ## 스프링 프로젝트 기본 디렉토리 구조 ##
