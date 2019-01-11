@@ -11,24 +11,28 @@ categories:
 여기에는 spring_servlet_context.xml의 위치도 넣어주게 되어있다  
   
 기본 구조(3.1버젼)  
+'''
 <?xml version="1.0" encoding="UTF-8"?>  
 <web-app xmlns: xsi="http://www.w3.org/2001/XMLSchema-instance"  
  xmlns="http://xmlns.jcp.org/xml/ns/javaee"  
  xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee   
  http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd" id="WebApp_ID" version="3.1">  
-  
+'''
+
 여러가지 설정들  
   
 </web-app>  
   
   
 기본 구조(2.5버젼)  
+'''
 <?xml version="1.0" encoding="UTF-8"?>  
 <web-app xmlns="http://java.sun.com/xml/ns/javaee"   
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  
 xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"  
 version="2.5">  
-  
+'''
+
 여러가지 설정들  
   
 </web-app>  
