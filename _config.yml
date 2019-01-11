@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Vision Factory"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Jin Cheol Kim"
 description              : "An amazing website."
 url                      : "https://kcufl.github.io"
 baseurl                  : ""# the subpath of your site, e.g. "/blog"
