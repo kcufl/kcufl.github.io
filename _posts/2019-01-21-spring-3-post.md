@@ -6,7 +6,9 @@ categories:
 ---
 
 ### 스프링 프레임워크 중요 환경 설정(web.xml, dispatcher_servlet.xml, context.xml) ###  
-  
+
+http://istoryful.tistory.com/5  
+
 서블릿 배포 기술자이며 WAS가 최초 구동될 때, WEB-INF 디렉토리에 존재하는 web.xml을 읽고 웹 어플리케이션을 설정한다  
 여기에는 spring_servlet_context.xml의 위치도 넣어주게 되어있다  
   
