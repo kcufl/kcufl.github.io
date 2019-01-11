@@ -8,6 +8,8 @@ categories:
 
 ### 스프링 디렉토리 구조 재정의하기 ###
 
+http://linux.systemv.pe.kr/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%94%94%EB%A0%89%ED%86%A0%EB%A6%AC-%EA%B5%AC%EC%A1%B0-%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EA%B8%B0/
+
 이클립스(Eclipse)에서 STS 를 설치하면 아주 간단하게 Spring MVC 샘플 프로젝트를 생성할 수 있다. 이 샘플 프로젝트의 디렉토리는 다음과 같다.
 
 Directory Structure of Spring MVC
