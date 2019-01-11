@@ -8,8 +8,8 @@ categories:
 ## 스프링 프로젝트 기본 디렉토리 구조 ##
 
 
-src/main/java : 자바코드(컨트롤러, 모델)
-src/main/resources : 자바 코드에서 사용할 리소스(mapper, sql)
+"src/main/java : 자바코드(컨트롤러, 모델)"
+"src/main/resources : 자바 코드에서 사용할 리소스(mapper, sql)"
 src/test/java : 테스트 코드
 src/test/resources : 테스트 코드에서 사용할 리소스
 Maven Dependencies : 라이브러리 관리도구(maven에서 다운받은 jar파일)
